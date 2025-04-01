@@ -104,3 +104,4 @@ while bird.alive:
     bird.collider()
    
     pygame.display.update()
+    
